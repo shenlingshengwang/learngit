@@ -1,3 +1,7 @@
 aaaaaaaaaaaaaaaaaaaa
 bbbbbbbbbbbbbbbbbbbb
-cccccccccccccccccccNNNNNNNNNNNNNNNNNNNNN
+<<<<<<< HEAD
+cccccccccccccccccjjjjjjjjjjjjjj
+=======
+cccccccccccmmmmmmmmmm
+>>>>>>> feature1
